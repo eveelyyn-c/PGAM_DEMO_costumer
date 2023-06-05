@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">costumer</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="escriba_su_mensaje">Escriba su mensaje</string>
+    <string name="Escriba_su_nombre">Name</string>
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="name">Escriba su nombre\n</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="email">Escriba su email</string>
+    <string name="telefono">Teléfono</string>
+    <string name="nacimiento">Fecha de nacimiento</string>
+    <string name="exito">¡Registro exitoso!</string>
+</resources>
